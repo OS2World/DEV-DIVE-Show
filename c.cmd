@@ -1,0 +1,2 @@
+f:\WS10\IBMCPP\BIN\ICC.EXE -I. -If:\WS10\SHIP_H -If:\WS10\COMMON -If:\WS10\IBMCPP\INCLUDE -If:\WS10\IBMCPP\INCLUDE\SYS -If:\WS10\SRC\IBMH /C+ /Gd- /Ge+ /Gm+ /Q /Gs- /Re /J+ /Kb+ /Ki- /Ms /Sm /Sn /Ss+ /O+ /G4 %1.c
+
